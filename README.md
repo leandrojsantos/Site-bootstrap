@@ -1,6 +1,6 @@
 ## 💻 Sobre o repositório
  
-Site feito com bootstrap 4 e javascript, da startup em Marília [da horta pra mesa](https://leandrojsantos.github.io/dahorta/) de mobile commerce com foco em hortifrútis por delivery, Procurando sempre aliar qualidade com comodidade.
+Site feito com bootstrap 4 e javascript, da startup em Marília [da horta pra mesa](https://leandrojsantos.github.io/dahorta/pages) de mobile commerce com foco em hortifrútis por delivery, Procurando sempre aliar qualidade com comodidade.
 
 
 ### Bootstrap
